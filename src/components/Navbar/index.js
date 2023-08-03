@@ -13,13 +13,13 @@ const NavBar = () => {
         <div className='relative flex items-center justify-between'>
           <a
             href='/'
-            aria-label='CalebWebDev'
-            title='CalebWebDev'
+            aria-label='ZenitHub'
+            title='ZenitHub'
             className='inline-flex items-center'
           >
             <i className='mr-2 text-2xl text-blue-accent-400 fa-solid fa-layer-group'></i>
             <span className='ml-2 text-xl font-bold tracking-wide text-gray-100 uppercase'>
-              CalebWebDev
+            ZenitHub
             </span>
           </a>
           <ul className='items-center hidden space-x-8 lg:flex'>
@@ -92,7 +92,7 @@ const NavBar = () => {
                       <a href='/' className='inline-flex items-center'>
                         <i className='mr-2 text-2xl text-blue-accent-400 fa-solid fa-layer-group'></i>
                         <span className='ml-2 text-xl font-bold tracking-wide text-gray-800 uppercase'>
-                          CalebWebDev
+                          ZenitHub
                         </span>
                       </a>
                     </div>

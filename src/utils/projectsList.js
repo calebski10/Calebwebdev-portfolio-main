@@ -1,17 +1,17 @@
-import Blog from "../img/blog.png";
-import BookMe from "../img/bookme.png";
-import ConnectMe from "../img/connectme.png";
-import ProPet from "../img/petstore.png";
-import IMS from "../img/IMS.png";
-import CoinHiz from "../img/coinhiz.png";
+import Bonik from "../img/Bonik.png";
+import Digital from "../img/digital.png";
+import Admin from "../img/admin.png";
+import magzyne from "../img/magzyne.png";
+import hospital from "../img/medicare.png";
+import Shops from "../img/Shops.png";
 
 const projects = [
   {
-    title: "ConnectME",
-    subTitle: "Social Media",
-    description:
-      "ConnectME is a social media application that allows users to create an account, make posts, and interact with other users. It is built using the MERN stack (MongoDB, Express, React, Node.js) and is deployed on Heroku.",
-    image: ConnectMe,
+    title: "Adminis",
+    //subTitle: "Social Media",
+   /* description:
+      "ConnectME is a social media application that allows users to create an account, make posts, and interact with other users. It is built using the MERN stack (MongoDB, Express, React, Node.js) and is deployed on Heroku.",*/
+    image: Admin,
     technologies: [
       "ReactJS",
       "Redux",
@@ -27,19 +27,19 @@ const projects = [
       "FontAwesome",
       "Heroku",
     ],
-    github: "https://github.com/calebski10/Car-rental",
-    live: "https://gleaming-zabaione-7d6437.netlify.app",
+    github: "https://github.com/calebski10/admindashboard",
+    live: "https://imaginative-semolina-18d8c9.netlify.app",
     demoAccount: {
       username: "demo@example.com",
       password: "Demo1234$",
     },
   },
   {
-    title: "BookMe",
-    subTitle: "Scheduling App",
-    description:
-      "BookMe is a web application that give Salon|Barbershop owner the platform they need to bring their business to the next level. The application is designed to give customers the ability to book appointments online and manage their appointments.",
-    image: BookMe,
+    title: "Digital",
+    /*subTitle: "Scheduling App",
+   /* description:
+      "BookMe is a web application that give Salon|Barbershop owner the platform they need to bring their business to the next level. The application is designed to give customers the ability to book appointments online and manage their appointments.",*/
+    image: Digital,
     technologies: [
       "ReactJS",
       "Redux",
@@ -57,12 +57,12 @@ const projects = [
     live: "https://zenithhubdigital.netlify.app",
   },
   {
-    title: "ProPet",
-    subTitle: "E-Commerce",
-    description:
-      "ProPet is an online store that allows buyers to log in, browse through multiple categories of pets, pick out products, select favorite products, and them to cart and complete the purchase.",
-    image: ProPet,
-    technologies: [
+    title: "Magzyne",
+    //subTitle: "E-Commerce",
+    /*description:
+      "ProPet is an online store that allows buyers to log in, browse through multiple categories of pets, pick out products, select favorite products, and them to cart and complete the purchase.",*/
+    image: magzyne,
+   technologies: [
       "MERN Stack",
       "Redux",
       "TailwindCSS",
@@ -78,11 +78,11 @@ const projects = [
     live: "https://voluble-tartufo-74ebce.netlify.app",
   },
   {
-    title: "IMS",
-    subTitle: "Inventory Management System",
-    description:
-      "This Inventory Management System application will allow a company with large amount of products to manage their inventory.",
-    image: IMS,
+    title: "Hospital",
+   // subTitle: "Inventory Management System",
+   /* description:
+      "This Inventory Management System application will allow a company with large amount of products to manage their inventory.",*/
+    image: hospital,
     technologies: [
       "HTML5",
       "CSS3",
@@ -105,11 +105,11 @@ const projects = [
     },
   },
   {
-    title: "CoinHiz",
-    subTitle: "Crypto Currency",
-    description:
-      "Coinhiz is a Crypto currency application the gives users information, current price, and a chart with historical price of the coin. Give you the ability to save your favorite coins and also get the locations of any Bitcoin atm around you or in any city.",
-    image: CoinHiz,
+    title: "Shops",
+   // subTitle: "Crypto Currency",
+   /* description:
+      "Coinhiz is a Crypto currency application the gives users information, current price, and a chart with historical price of the coin. Give you the ability to save your favorite coins and also get the locations of any Bitcoin atm around you or in any city."*/
+    image: Shops,
     technologies: [
       "HTML5",
       "CSS3",
@@ -123,11 +123,11 @@ const projects = [
     live: "https://zenithhubadmin.netlify.app",
   },
   {
-    title: "Tech Blog",
-    subTitle: "Blog",
-    description:
-      "This is a tech blog created using MVC architecture. It is a simple blog that allows users to create, edit, and delete posts. It also allows users to comment on posts.",
-    image: Blog,
+    title: "Bonik",
+    //subTitle: "Blog",
+   /* description:
+      "This is a tech blog created using MVC architecture. It is a simple blog that allows users to create, edit, and delete posts. It also allows users to comment on posts.",*/
+    image: Bonik,
     technologies: [
       "HTML5",
       "CSS3",
