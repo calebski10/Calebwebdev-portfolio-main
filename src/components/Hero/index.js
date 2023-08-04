@@ -29,7 +29,7 @@ const Hero = () => {
           <div className="flex items-center justify-center lg:w-1/2">
           <div className="flex w-full relative">
             <img
-              className="z-50"
+              className="z-50 mb-3"
               src={Profile}
               alt=""
             />
