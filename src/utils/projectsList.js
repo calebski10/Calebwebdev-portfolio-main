@@ -1,4 +1,3 @@
-import Bonik from "../img/Bonik.png";
 import Digital from "../img/digital.png";
 import Admin from "../img/admin.png";
 import magzyne from "../img/magzyne.png";
@@ -28,7 +27,7 @@ const projects = [
       "Heroku",
     ],
     github: "https://github.com/calebski10/admindashboard",
-    live: "https://imaginative-semolina-18d8c9.netlify.app",
+    live: "https://admindashboard-seven-chi.vercel.app/",
     demoAccount: {
       username: "demo@example.com",
       password: "Demo1234$",
@@ -54,7 +53,7 @@ const projects = [
       "Heroku",
     ],
     github: "https://github.com/calebski10/Digital",
-    live: "https://zenithhubdigital.netlify.app",
+    live: "https://digital-beryl.vercel.app/",
   },
   {
     title: "Magzyne",
@@ -75,7 +74,7 @@ const projects = [
       "Heroku",
     ],
     github: "https://github.com/calebski10/admin-dashboard",
-    live: "https://voluble-tartufo-74ebce.netlify.app",
+    live: "https://admin-dashboard-two-ruby.vercel.app/",
   },
   {
     title: "Hospital",
@@ -87,18 +86,18 @@ const projects = [
       "HTML5",
       "CSS3",
       "JavaScript",
-      "HandlebarsJS",
+      "Bootstrap",
+     /* "HandlebarsJS",
       "NodeJS",
       "Express",
       "MySQL",
       "Sequelize",
       "Heroku",
-      "Bootstrap",
       "Restful API",
       "MVC",
-    ],
+    */],
     github: "https://github.com/calebski10/hospital",
-    live: "https://superlative-dodol-a0198d.netlify.app",
+    live: "hospital-kappa-peach.vercel.app",
     demoAccount: {
       username: "demo@example.com",
       password: "demo1234",
@@ -120,13 +119,13 @@ const projects = [
       "jQuery",
     ],
     github: "https://github.com/calebski10/admin-panel",
-    live: "https://zenithhubadmin.netlify.app",
+    live: "https://admin-panel-eight-gilt.vercel.app/",
   },
-  {
+  /*{
     title: "Bonik",
-    //subTitle: "Blog",
-   /* description:
-      "This is a tech blog created using MVC architecture. It is a simple blog that allows users to create, edit, and delete posts. It also allows users to comment on posts.",*/
+    subTitle: "Blog",
+    description:
+      "This is a tech blog created using MVC architecture. It is a simple blog that allows users to create, edit, and delete posts. It also allows users to comment on posts.",
     image: Bonik,
     technologies: [
       "HTML5",
@@ -140,8 +139,7 @@ const projects = [
       "Handlebars",
     ],
     github: "https://github.com/jimenezCaleb/mvc-tech-blog",
-    live: "https://spiffy-sprinkles-9815d5.netlify.app",
-  },
-];
+    live: "",
+  },*/];
 
 export default projects;
