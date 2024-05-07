@@ -3,6 +3,7 @@ import Admin from "../img/admin.png";
 import magzyne from "../img/magzyne.png";
 import hospital from "../img/medicare.png";
 import Shops from "../img/Shops.png";
+import Apple from "../img/Apple.png"
 
 const projects = [
   {
@@ -125,8 +126,8 @@ const projects = [
     title: "Apple",
    // subTitle: "Blog",
    /* description:
-      "This is a tech blog created using MVC architecture. It is a simple blog that allows users to create, edit, and delete posts. It also allows users to comment on posts.",
-    image: Bonik,*/
+      "This is a tech blog created using MVC architecture. It is a simple blog that allows users to create, edit, and delete posts. It also allows users to comment on posts.",*/
+    image: Apple,
     technologies: [
       "HTML5",
       "CSS3",
@@ -139,7 +140,7 @@ const projects = [
       
     ],
     github: "https://github.com/calebski10/Apple",
-    live: "https://vercel.com/calebski10s-projects/apple",
+    live: "https://apple-six-gamma.vercel.app/",
   },];
 
 export default projects;
