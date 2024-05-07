@@ -131,12 +131,12 @@ const projects = [
       "HTML5",
       "CSS3",
       "JavaScript",
-      "Bootstrap",
-      "MVC",
-      "NodeJS",
-      "Express",
-      "MySQL",
-      "Handlebars",
+      "Tailwind",
+      "GraphSQL",
+      "Refine",
+      "Typescript"
+      
+      
     ],
     github: "https://github.com/calebski10/Apple",
     live: "https://vercel.com/calebski10s-projects/apple",
