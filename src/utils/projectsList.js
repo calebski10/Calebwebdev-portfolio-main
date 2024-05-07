@@ -121,12 +121,12 @@ const projects = [
     github: "https://github.com/calebski10/admin-panel",
     live: "https://admin-panel-eight-gilt.vercel.app/",
   },
-  /*{
-    title: "Bonik",
-    subTitle: "Blog",
-    description:
+  {
+    title: "Apple",
+   // subTitle: "Blog",
+   /* description:
       "This is a tech blog created using MVC architecture. It is a simple blog that allows users to create, edit, and delete posts. It also allows users to comment on posts.",
-    image: Bonik,
+    image: Bonik,*/
     technologies: [
       "HTML5",
       "CSS3",
@@ -138,8 +138,8 @@ const projects = [
       "MySQL",
       "Handlebars",
     ],
-    github: "https://github.com/jimenezCaleb/mvc-tech-blog",
-    live: "",
-  },*/];
+    github: "https://github.com/calebski10/Apple",
+    live: "https://vercel.com/calebski10s-projects/apple",
+  },];
 
 export default projects;
